@@ -1,1 +1,1 @@
-alert("Dit is mijn eerste typescript code!!");
+// alert("Dit is mijn eerste typescriptproject!!");
